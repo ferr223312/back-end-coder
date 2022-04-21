@@ -6,7 +6,6 @@ const app = express();
 const PORT = 8080;
 const router = Router();
 
-
 app.set('view engine', 'pug');
 app.set('views', './views');
 app.use(express.static("public"));
@@ -40,7 +39,7 @@ router.post('/',(require,response)=>{
 router.get('/',(require,response)=>{
     let array = () => contenedor.getAll();
     console.log('Todos los productos disponibles:\n',array);
-    response.render('all', { todosLosProductos: array(), listExists: true }); 
+    response.render('all.pug', { array: array()}); 
 })
 
 
