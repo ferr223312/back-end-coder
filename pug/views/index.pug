@@ -1,0 +1,14 @@
+
+html 
+    head
+        title 
+    body 
+        h1(style="color: red")=mensaje
+        form(action="/produsctos" method="post") 
+            label(for="title")="Titulo"
+            input(type="text",name="title",required) 
+            label(for="title")="Precio"
+            input(type="text",name="title",required) 
+            label(for="title")="Thumbnail"
+            input(type="text",name="thumbnail",required) 
+            input(type="submit",value="ENVIAR",id="boton")

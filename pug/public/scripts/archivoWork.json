@@ -1,0 +1,128 @@
+[
+  {
+    "title": "libreta",
+    "price": 380,
+    "thumbnail": "google.com/img_libreta",
+    "id": 1
+  },
+  {
+    "title": "resaltador",
+    "price": 150,
+    "thumbnail": "google.com/imagen_resaltador",
+    "id": 2
+  },
+  {
+    "title": "lapicera",
+    "price": 120,
+    "thumbnail": "google.com/imagen_lapicera",
+    "id": 20
+  },
+  {
+    "title": "cartulina",
+    "price": 80,
+    "thumbnail": "google.com/img_cartulina",
+    "id": 21
+  },
+  {
+    "title": "Cartulina",
+    "price": "345",
+    "thumbnail": "google.com/cartulina_cartulina",
+    "id": 22
+  },
+  {
+    "title": "Cartulina",
+    "price": "345",
+    "thumbnail": "google.com/cartulina_cartulina",
+    "id": 23
+  },
+  {
+    "title": "Cartulina",
+    "price": "345",
+    "thumbnail": "google.com/cartulina_cartulina",
+    "id": 24
+  },
+  {
+    "title": "cartulina",
+    "price": 80,
+    "thumbnail": "google.com/img_cartulina",
+    "id": 25
+  },
+  {
+    "title": "",
+    "price": "",
+    "thumbnail": "",
+    "id": 26
+  },
+  {
+    "title": "kuas",
+    "price": "123",
+    "thumbnail": "google.com",
+    "id": 27
+  },
+  {
+    "title": "MioXD",
+    "price": "987",
+    "thumbnail": "bing.com",
+    "id": 28
+  },
+  {
+    "title": "mio2xd",
+    "price": "7847",
+    "thumbnail": "bing.com",
+    "id": 29
+  },
+  {
+    "title": "mio2xd",
+    "price": "7847",
+    "thumbnail": "bing.com",
+    "id": 30
+  },
+  {
+    "title": "mio2xd",
+    "price": "7847",
+    "thumbnail": "bing.com",
+    "id": 31
+  },
+  {
+    "title": "chino01",
+    "price": "2121",
+    "thumbnail": "chino.com",
+    "id": 32
+  },
+  {
+    "title": "chino01",
+    "price": "2121",
+    "thumbnail": "chino.com",
+    "id": 33
+  },
+  {
+    "title": "chino01",
+    "price": "2121",
+    "thumbnail": "chino.com",
+    "id": 34
+  },
+  {
+    "title": "chino01",
+    "price": "2121",
+    "thumbnail": "chino.com",
+    "id": 35
+  },
+  {
+    "title": "checho",
+    "price": "111321",
+    "thumbnail": "checho.com",
+    "id": 36
+  },
+  {
+    "title": "checho2022",
+    "price": "14241",
+    "thumbnail": "checho.com",
+    "id": 37
+  },
+  {
+    "title": "checho2023",
+    "price": "194283",
+    "thumbnail": "checho.com",
+    "id": 38
+  }
+]
