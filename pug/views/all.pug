@@ -1,0 +1,18 @@
+html 
+    head
+        title="lista productos"
+    body 
+        h1=mensaje 
+        table
+            tr 
+                th="Titulo"
+                th="Precio"
+                th="Id"
+            each p in array 
+                tr
+                    td=p.title 
+                    td=p.price 
+                    td=p.id 
+        
+        a(href="/")
+            button Ir al formulario
